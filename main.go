@@ -5,7 +5,8 @@ import "git_project/pkg2"
 
 func main() {
 
-fmt.Println("v1")
+  pkg1.f1()
+  pkg2.f2()
 
 
 }
