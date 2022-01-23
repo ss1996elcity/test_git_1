@@ -4,5 +4,5 @@ import "fmt"
 
 func f1() {
 
-fmt.Println("Hello from f1() lala!")
+fmt.Println("Hello from f1()!")
 }
