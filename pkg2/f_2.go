@@ -2,6 +2,6 @@ package pkg2
 
 import "fmt"
 
-func f2() {
+func F2() {
 fmt.Println("Hello from f2() remote!")
 }
