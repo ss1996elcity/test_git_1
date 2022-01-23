@@ -5,8 +5,8 @@ import "git_project/pkg2"
 
 func main() {
 
-  pkg1.f1()
-  pkg2.f2()
+  pkg1.F1()
+  pkg2.F2()
 
 
 }
