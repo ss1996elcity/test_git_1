@@ -9,4 +9,6 @@ func main() {
   pkg1.F1()
   pkg2.F2()
   fmt.Println("Ululululuu")
+  fmt.Println("Blablabla_Ululululu")
+
 }
